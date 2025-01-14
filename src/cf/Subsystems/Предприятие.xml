@@ -81,6 +81,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.БотОфисМенеджер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.TASK1</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.TASK2</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.TASK3</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

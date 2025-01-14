@@ -19,7 +19,7 @@
 					<v8:content>TASK1</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Это комментарий</Comment>
 			<UseStandardCommands>true</UseStandardCommands>
 			<DefaultForm/>
 			<AuxiliaryForm/>

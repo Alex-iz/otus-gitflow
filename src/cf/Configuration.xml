@@ -521,6 +521,7 @@
 			<Report>ПрайсЛист</Report>
 			<Report>АнализЗаказов</Report>
 			<Report>ОстаткиТоваровНаСкладахМобильный</Report>
+			<Report>TASK3</Report>
 			<DataProcessor>АдминистративныйСервис</DataProcessor>
 			<DataProcessor>ДемонстрацияВозможностейДиаграмм</DataProcessor>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
@@ -536,6 +537,7 @@
 			<DataProcessor>УправлениеСистемойВзаимодействия</DataProcessor>
 			<DataProcessor>ЭлектроннаяПочта</DataProcessor>
 			<DataProcessor>TASK1</DataProcessor>
+			<DataProcessor>TASK2</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<InformationRegister>ЦеныТоваров</InformationRegister>
 			<InformationRegister>СостояниеВходящихПисем</InformationRegister>
